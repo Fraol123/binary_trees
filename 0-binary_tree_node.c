@@ -3,7 +3,7 @@
 /**
  * binary_tree_node - creates a new binary tree node
  *
- *@parent: pointer to parent 
+ *@parent: pointer to parent
  *@value: value in binary tree
  *
  * Return: pointer to binary tree
