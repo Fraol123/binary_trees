@@ -1,5 +1,5 @@
-#ifndef BINARY_TREES
-#define BINARY_TREES
+#ifndef _BINARY_TREES_H_
+#define _BINARY_TREES_H_
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -88,4 +88,4 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 void traverse(binary_tree_t *parent);
 
 
-#endif /*BINARY_TREES*/
+#endif /* _BINARY_TREES_H_ */
